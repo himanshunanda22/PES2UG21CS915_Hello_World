@@ -18,7 +18,7 @@ The project consists of a single source file `main.cpp` and a CMakeLists.txt fil
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/himanshunanda22/Workflow.git
     ```
 
 2. Navigate to the project directory:
